@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/3dw1nM0535/customerbase-app/issues"
   },
-  "homepage": "https://github.com/3dw1nM0535/customerbase-app#readme"
+  "homepage": "https://github.com/3dw1nM0535/customerbase-app#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11"
+  }
 }
