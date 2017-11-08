@@ -1,0 +1,10 @@
+{
+  "customers": [
+    { "id": "1", "name": "Edwin Moses", "email": "gray3dw1n@gmail.com", "age": 22 },
+    { "id": "2", "name": "Mike Tyson", "email": "workockmoses@gmail.com", "age": 28 },
+    { "id": "3", "name": "Brenda Wangari", "email": "brenda@gmail.com", "age": 30 },
+    { "id": "4", "name": "Nancy Mokeira", "email": "nancy@yahoo.com", "age": 40 },
+    { "id": "5", "name": "Beverly Fartu", "email": "beverly@yahoo.com", "age": 30 }
+  
+  ]
+}
