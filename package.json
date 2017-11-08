@@ -1,0 +1,19 @@
+{
+  "name": "customerbase-graphql",
+  "version": "1.0.0",
+  "description": "Customer base management App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3dw1nM0535/customerbase-app.git"
+  },
+  "author": "Edwin Moses",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3dw1nM0535/customerbase-app/issues"
+  },
+  "homepage": "https://github.com/3dw1nM0535/customerbase-app#readme"
+}
